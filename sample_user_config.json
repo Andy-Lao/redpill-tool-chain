@@ -4,8 +4,8 @@
         "vid": "0x46f4",
         "sn": "20C0SBRVDA1MD",
         "mac1": "00113282F64B",
-        "SataPortMap": "232",
-        "DiskIdxMap": "0020",
+        "SataPortMap": "2",
+        "DiskIdxMap": "0001",
         "SasIdxMap": "0"
     },
     "synoinfo": {},
